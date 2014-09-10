@@ -1,5 +1,5 @@
 
-    ["meta": {
+    {"meta": {
         "rate_limit_amount": 2,
         "rate_limit_reset": 1410322973,
         "application_mode": "test",
